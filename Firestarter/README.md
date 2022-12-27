@@ -21,6 +21,15 @@ Home Page:
 
 <img width="257" alt="Screen Shot 2022-12-26 at 11 22 58 PM" src="https://user-images.githubusercontent.com/86800635/209610915-df1b7258-bff5-44d4-bdae-6816f120b3be.png">
 
+Custom Markers:
+
+<img width="239" alt="Screen Shot 2022-12-08 at 7 09 07 PM" src="https://user-images.githubusercontent.com/86800635/209677344-c8db2185-34fa-422a-981a-1cb6ea8f3d85.png">
+
+<img width="239" alt="Screen Shot 2022-12-08 at 7 10 08 PM" src="https://user-images.githubusercontent.com/86800635/209677411-9cfd54df-5138-4a5b-87e0-e87495eb2bf5.png">
+
+<img width="239" alt="Screen Shot 2022-12-08 at 7 10 20 PM" src="https://user-images.githubusercontent.com/86800635/209677441-1537d244-1d4b-4ea2-b3ae-58c48bc3eaa6.png">
+
+
 LeaderBoard:
 
 <img width="257" alt="Screen Shot 2022-12-26 at 11 23 10 PM" src="https://user-images.githubusercontent.com/86800635/209610964-aa6c8ffa-98ab-4e1a-ba2f-e31fc3657a16.png">
